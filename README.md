@@ -7,3 +7,5 @@ in custom games with friends, or while hanging out in the lobby.
 
 I'm just putting them here so I have a place to reference them easily, and because there aren't many good resources online about
 all of the various commands or items or whatnot available in the game.
+
+(if valve reads this: thank u for the great game :D)
