@@ -8,4 +8,12 @@ in custom games with friends, or while hanging out in the lobby.
 I'm just putting them here so I have a place to reference them easily, and because there aren't many good resources online about
 all of the various commands or items or whatnot available in the game.
 
+### Tools
+
+deadlock-resource-collector.ps1
+
+This script copies the various text-based resource files from the game install location to your current directory, naming the folder after the current date.
+
+### Footnote
+
 (if valve reads this: thank u for the great game :D)
